@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">الشبكة الطبية</string>
+    <string name="google_maps_key">AIzaSyAoWv9NOyHZ2SQyvBT6Wq_ZR3vtQLctKLA</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="reportTitle">إبلاغ خطأ في البيانات</string>
+    <string name="otherLabel">اخرى</string>
+    <string name="chooseproblem">اختر نوع الخطأ :</string>
+</resources>
